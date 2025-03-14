@@ -48,9 +48,9 @@ export default async function Post({ params, searchParams }) {
                   <img src="/img/artical/calendar.png" />
                   {postData.date}
                 </span> */}
-                <span className="post-author">
+                {/* <span className="post-author">
                   <img src="/img/artical/user.png" /> {postData.author}
-                </span>
+                </span> */}
               </div>
               <h1>{postData.title}</h1>
 
