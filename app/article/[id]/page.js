@@ -28,6 +28,7 @@ export default async function Post({ params, searchParams }) {
   return (
     <>
       <TopBar />
+
       <div className="post_banner">
         <div className="container">
           <h2>Article Details</h2>

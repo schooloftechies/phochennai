@@ -35,7 +35,7 @@ Chimeric Antigen Receptor (CAR) T-cell therapy continues to show promise in trea
 
 - This personalized treatment uses a patient's own modified immune cells to fight cancer.
 
-- Researchers are working on developing "off-the-shelf" allogeneic CAR T-cell therapies, which could make this treatment more widely accessible7.
+- Researchers are working on developing "off-the-shelf" allogeneic CAR T-cell therapies, which could make this treatment more widely accessible[Open in new tab](https://med.stanford.edu/cancer/about/news/pediatric-leukemia.html){:target="_blank"}.
 
 #### 4. Menin Inhibitors for Infant Leukemia
 

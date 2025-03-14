@@ -42,7 +42,7 @@ export default async function Blogs({ searchParams }) {
                                     <img src={image} />
                                     <img src={mobile} />
                                     </div>
-                                    <div className="post-meta">
+                                    {/* <div className="post-meta">
                                         <span className="post-date">
                                             <img src="/img/artical/calendar.png" />
                                             {new Intl.DateTimeFormat("en-GB").format(date)}
@@ -50,7 +50,7 @@ export default async function Blogs({ searchParams }) {
                                         <span className="post-author">
                                             <img src="/img/artical/user.png" /> {author}
                                         </span>
-                                    </div>
+                                    </div> */}
                                     <h3>{title}</h3>
                                     <a className="readmore" href={`/article/${id}`}>
                                         Read More

@@ -12,7 +12,7 @@ In a remarkable advance in medical technology, researchers have developed a diag
 
 FastGlioma uses artificial intelligence to detect minute parts of tumors that might be overlooked during surgical procedures, thereby offering a more accurate diagnosis and better management of the disease.
 
-#### How NanoString WorksTransforming Patient Care with Non-Invasive Techniques
+#### Transforming Patient Care with Non-Invasive Techniques
 
 Adding to these advancements, a groundbreaking non-invasive blood test has been approved for use in England. Developed by Datar Cancer Genetics, this 'liquid biopsy' can detect cancer cells with 100% accuracy, providing a safe and highly precise alternative to traditional, more invasive methods​. 
 
