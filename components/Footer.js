@@ -67,6 +67,9 @@ const Footer = ({ topbarIcon = true, darkLogo = true }) => {
                 <Link href="/">About Us</Link>
               </li>
               <li>
+                <Link href="/anamaya">Anamaya</Link>
+              </li>
+              <li>
                 <Link href="/articles">Articles</Link>
               </li>
               <li>

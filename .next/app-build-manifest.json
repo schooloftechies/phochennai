@@ -18,16 +18,16 @@
       "static/css/app/articles/page.css",
       "static/chunks/app/articles/page.js"
     ],
-    "/deena/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/deena/page.js"
-    ],
     "/treatment/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/treatment/[id]/page.css",
       "static/chunks/app/treatment/[id]/page.js"
+    ],
+    "/deena/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/deena/page.js"
     ],
     "/gallery/page": [
       "static/chunks/webpack.js",
@@ -46,15 +46,15 @@
       "static/css/app/anamaya/page.css",
       "static/chunks/app/anamaya/page.js"
     ],
-    "/vimal/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/vimal/page.js"
-    ],
     "/rishab/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/rishab/page.js"
+    ],
+    "/vimal/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/vimal/page.js"
     ]
   }
 }
