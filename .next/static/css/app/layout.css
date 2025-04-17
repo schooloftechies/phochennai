@@ -1213,7 +1213,7 @@ body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,2
     position: relative;
 }
 .about_left img:first-child{
-    height: 10 0%;
+    height: 100%;
     width: 100%;
     object-fit: cover;
     border-radius: 5px;
@@ -1301,6 +1301,39 @@ body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,2
     grid-template-columns: repeat(3,1fr);
     grid-gap: 40px;
     gap: 40px;
+}
+.obj_cardss{
+  padding: 60px 0 40px;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 40px;
+  gap: 40px;
+}
+.turst-content{
+  padding-bottom: 15px;
+}
+.stories{
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin-top: 40px;
+}
+.stories_text{
+  padding-top: 40px;
+}
+.team_about{
+  padding: 40px;
+  text-align: left;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background: #fff;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+.stories img{
+  width: 50%;
+  height: 600px;
+  object-fit: cover;
+  object-position: bottom;
 }
 .obj_card{
   padding: 20px;
@@ -1916,6 +1949,61 @@ gap: 0.5rem;
 .swiper-pagination-bullet-active {
   background: #ff451b !important;
 }
+
+.wrapper {
+  padding: 40px;
+  margin: 60px auto;
+  background: #fff;
+}
+
+.introSection {
+  margin-bottom: 30px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.wrapp{
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.donationSection {
+  margin-bottom: 30px;
+}
+
+.contactSection {
+  margin-top: 20px;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.infoList {
+  list-style: none;
+  padding-left: 0;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.note {
+  font-size: 14px;
+  opacity: 0.85;
+}
+.infoList a{
+  text-decoration: none;
+}
+
+
 /*!******************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./public/css/plugins.css ***!
   \******************************************************************************************************************************************************************************************************************************************************************/

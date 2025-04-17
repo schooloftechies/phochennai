@@ -51,7 +51,7 @@
     position: relative;
 }
 .about_left img:first-child{
-    height: 10 0%;
+    height: 100%;
     width: 100%;
     object-fit: cover;
     border-radius: 5px;
@@ -133,6 +133,38 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 40px;
+}
+.obj_cardss{
+  padding: 60px 0 40px;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 40px;
+}
+.turst-content{
+  padding-bottom: 15px;
+}
+.stories{
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin-top: 40px;
+}
+.stories_text{
+  padding-top: 40px;
+}
+.team_about{
+  padding: 40px;
+  text-align: left;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background: #fff;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+.stories img{
+  width: 50%;
+  height: 600px;
+  object-fit: cover;
+  object-position: bottom;
 }
 .obj_card{
   padding: 20px;
@@ -740,3 +772,57 @@ gap: 0.5rem;
 .swiper-pagination-bullet-active {
   background: #ff451b !important;
 }
+
+.wrapper {
+  padding: 40px;
+  margin: 60px auto;
+  background: #fff;
+}
+
+.introSection {
+  margin-bottom: 30px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.wrapp{
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.donationSection {
+  margin-bottom: 30px;
+}
+
+.contactSection {
+  margin-top: 20px;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.infoList {
+  list-style: none;
+  padding-left: 0;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.note {
+  font-size: 14px;
+  opacity: 0.85;
+}
+.infoList a{
+  text-decoration: none;
+}
+

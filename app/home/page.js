@@ -16,9 +16,9 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import { Pagination, Navigation } from "swiper";
-import { Margarine } from "next/font/google";
-import { Whatsappfab } from "@/components/Whatsappfab";
+  import { Pagination, Navigation } from "swiper";
+  import { Margarine } from "next/font/google";
+  import { Whatsappfab } from "@/components/Whatsappfab";
 const Home = () => {
   const testimonials = [
     {
