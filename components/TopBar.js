@@ -156,8 +156,8 @@ const TopBar = ({ topbarIcon = true, darkLogo = true }) => {
                   <Link href="/gallery" className={`link ${isActiveLink("/gallery") ? "active" : ""}`}>
                     Gallery
                   </Link>
-                  <Link href="/anamaya" className={`link ${isActiveLink("/anamaya") ? "active" : ""}`}>
-                  Anamaya
+                  <Link href="/anamaya-childrens-trust" className={`link ${isActiveLink("/anamaya-childrens-trust") ? "active" : ""}`}>
+                  Anamaya Children's Trust
                   </Link>
                   <Link href="/contact" className={`link ${isActiveLink("/contact") ? "active" : ""}`}>
                     Contact Us
