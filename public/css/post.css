@@ -18,6 +18,17 @@
     position: relative;
    
 }
+.post_bannerr::before{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+
+
+}
+.post_bannerr h1{
+    z-index: 2;
+}
 .post_banner h1{
     font-size: 46px;
     color: #fff;
