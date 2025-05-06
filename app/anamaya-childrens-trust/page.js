@@ -54,10 +54,9 @@ export default async function Anamaya() {
               {/* <span>About Us</span> */}
               <h2 style={{ margin: 0 }}>About Us</h2>
               <p>
-                “Anamaya”, derived from Sanskrit refers to “disease-free". Buil-
-                ding on this premise, Anamaya Children's Trust was established
-                as a not-for-profit foundation with the primary aim of offering
-                fi- nancial aid to children who need to undergo curative
+                “Anamaya”, derived from Sanskrit refers to “disease free". Building on this premise, Anamaya Children's Trust was established
+                as a not for profit foundation with the primary aim of offering
+                financial aid to children who need to undergo curative
                 treatment such as:
               </p>
               <ul>
@@ -68,8 +67,7 @@ export default async function Anamaya() {
                     src="/img/svg/dot.svg"
                   />
                   <p>
-                    Paediatric oncological care - including chemotherapy, radio-
-                    therapy and other procedures.
+                    Paediatric oncological care  including chemotherapy, radio therapy and other procedures.
                   </p>
                 </li>
                 <li style={{ display: "flex", alignItems: "baseline" }}>
@@ -80,19 +78,16 @@ export default async function Anamaya() {
                   />
                   <p>
                     {" "}
-                    Haematopoietic stem cell transplants (aka bone marrow trans-
-                    plants) - to cure relapsed blood cancers (leukemias),
+                    Haematopoietic stem cell transplants (aka bone marrow transplants) to cure relapsed blood cancers (leukemias),
                     aggressive solid organ tumours, haemoglobin disorders such
-                    as thalassae- mia or sickle cell anaemia, primary immune
+                    as thalassamia or sickle cell anaemia, primary immune
                     deficiencies, etc.
                   </p>
                 </li>
               </ul>
               <p>
-                Haematopoietic stem cell transplants (aka bone marrow trans-
-                plants) - to cure relapsed blood cancers (leukemias), aggressive
-                solid organ tumours, haemoglobin disorders such as thalassae-
-                mia or sickle cell anaemia, primary immune deficiencies, etc.
+                Haematopoietic stem cell transplants (aka bone marrow transplants) to cure relapsed blood cancers (leukemias), aggressive
+                solid organ tumours, haemoglobin disorders such as thalassaemia or sickle cell anaemia, primary immune deficiencies, etc.
               </p>
             </div>
           </div>
@@ -146,7 +141,7 @@ export default async function Anamaya() {
             illnesses.
           </p>
           <p className="turst-content">
-            Also, Anamaya Children's Trust is a completely not-for-profit trust
+            Also, Anamaya Children's Trust is a completely not for profit trust
             where funds received are processed completely for patient care. This
             is in stark contrast to crowdfunding platforms which charge hefty
             commission fees that can be as high as 25%!
@@ -256,10 +251,8 @@ MGM Cancer Institute and MGM Healthcare, Chennai
                 </li>
               </ul>
               <p>
-                Haematopoietic stem cell transplants (aka bone marrow trans-
-                plants) - to cure relapsed blood cancers (leukemias), aggressive
-                solid organ tumours, haemoglobin disorders such as thalassae-
-                mia or sickle cell anaemia, primary immune deficiencies, etc.
+                Haematopoietic stem cell transplants (aka bone marrow transplants) to cure relapsed blood cancers (leukemias), aggressive
+                solid organ tumours, haemoglobin disorders such as thalassaemia or sickle cell anaemia, primary immune deficiencies, etc.
               </p>
             </div>
           </div>
@@ -322,8 +315,8 @@ MGM Cancer Institute and MGM Healthcare, Chennai
       <div className="introSection">
         <h2 className="title">How you can help:</h2>
         <p className="description">
-          Donate generously - your contribution can literally help make the difference between life and death.<br />
-          Spread the word - the wider the reach, the more children benefit.
+          Donate generously your contribution can literally help make the difference between life and death.<br />
+          Spread the word the wider the reach, the more children benefit.
         </p>
         <div className="contactSection">
         <h3 className="subtitle">Contact us:</h3>
