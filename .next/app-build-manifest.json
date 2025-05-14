@@ -1,38 +1,16 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
-    "/articles/page": [
+    "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/articles/page.css",
-      "static/chunks/app/articles/page.js"
-    ],
-    "/treatment/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/treatment/[id]/page.css",
-      "static/chunks/app/treatment/[id]/page.js"
-    ],
-    "/deena/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/deena/page.js"
-    ],
-    "/gallery/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/gallery/page.js"
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/article/[id]/page": [
       "static/chunks/webpack.js",
@@ -40,21 +18,11 @@
       "static/css/app/article/[id]/page.css",
       "static/chunks/app/article/[id]/page.js"
     ],
-    "/anamaya/page": [
+    "/articles/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/anamaya/page.css",
-      "static/chunks/app/anamaya/page.js"
-    ],
-    "/rishab/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/rishab/page.js"
-    ],
-    "/vimal/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/vimal/page.js"
+      "static/css/app/articles/page.css",
+      "static/chunks/app/articles/page.js"
     ]
   }
 }

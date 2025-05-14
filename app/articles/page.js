@@ -16,11 +16,14 @@ export default async function Blogs({ searchParams }) {
     return (
         <>
             <TopBar />
+
             <div className="post_banner">
                 <div className="container">
                     <h2>Articles</h2>
                 </div>
             </div>
+
+
             <section className="posts">
                 <div className="container">
                     <div className="search_post">
@@ -61,6 +64,8 @@ export default async function Blogs({ searchParams }) {
                     </div>
                 </div>
             </section>
+
+            
             <Footer />
         </>
     );

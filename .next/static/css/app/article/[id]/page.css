@@ -15,11 +15,23 @@
    
 }
 .post_bannerr{
-    background: url(/_next/static/media/ssbanner.c03edaae.png) no-repeat center center;
+    background: url(/_next/static/media/happy-childrens-day-with-boy-girl-cartoons-design.3729ffdd.jpg) no-repeat center center;
     background-size: cover;
     padding: 200px 0 150px;
     position: relative;
    
+}
+.post_bannerr::before{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+
+
+}
+.post_bannerr h1{
+    z-index: 2;
+    color: #fff;
 }
 .post_banner h1{
     font-size: 46px;
