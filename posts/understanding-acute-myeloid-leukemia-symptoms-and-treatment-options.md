@@ -1,9 +1,9 @@
 ---
 title: "Understanding Acute Myeloid Leukemia: Symptoms and Treatment Options"
-image: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia.png"
-mobile: "/img/artical/mobile-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
-singleImage: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia.png"
-MobileSingleImage: "/img/artical/mobile-single-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
+image: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
+mobile: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
+singleImage: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
+MobileSingleImage: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
 author: PHO Team
 date: "16-05-2025"
 ---
@@ -79,6 +79,8 @@ M6: Acute Erythroid Leukemia
  #### Causes and Risk Factors of Acute Myeloid Leukemia (AML)
 
  Acute myeloid leukemia (AML), or acute myelogenous leukemia, starts in the bone marrow, the spongy tissue inside bones where blood cells are formed. In people with AML, the bone marrow makes abnormal, immature white blood cells (also called myeloblasts) that grow too fast and do not become healthy blood cells. 
+
+ <img src="/img/artical/single-articles/Causes and Risk Factors of Acute Myeloid Leukemia (AML).png" alt="Bone Marrow Image" class="myeloma-img" />
 
  These abnormal cells take over the blood and bone marrow space, making it hard for the body to produce enough red blood cells, platelets, and normal white blood cells.
 
@@ -172,6 +174,8 @@ Some people also notice they look pale. This is due to a low number of red blood
 #### Bone Pain and Swollen Lymph Nodes
 
 As the disease worsens, bone pain can become a noticeable symptom. It’s not the pain that comes from a fall or injury. Instead, it may feel like a deep ache in the arms, legs, hips, or chest. This happens because the bone marrow is full of abnormal myeloid cells.
+
+<img src="/img/artical/single-articles/Bone Pain and Swollen Lymph Nodes.png" alt="Bone Marrow Image" class="myeloma-img" />
 
 Swelling in lymph nodes—especially in the neck, underarms, or groin—can also occur. These nodes are part of the immune system. When they swell, they may feel like small lumps and tender to the touch.
 

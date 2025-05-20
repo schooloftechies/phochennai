@@ -1,9 +1,9 @@
 ---
 title: "Understanding Leukemia: Symptoms, Diagnosis, and Treatment Options"
-image: "/img/artical/single-articles/understanding-leukemia-symptoms-diagnosis-and-treatment-options.png"
-mobile: "/img/artical/mobile-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
-singleImage: "/img/artical/single-articles/understanding-leukemia-symptoms-diagnosis-and-treatment-options.png"
-MobileSingleImage: "/img/artical/mobile-single-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
+image: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
+mobile: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
+singleImage: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
+MobileSingleImage: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
 author: PHO Team
 date: "16-05-2025"
 ---
@@ -27,6 +27,9 @@ Over time, these abnormal cells take over the space, leaving little room for the
 #### How White Blood Cells Function—and What Goes Wrong in Leukemia
 
 White blood cells protect the body from viruses, bacteria, and other threats. There are several kinds of white cells, each with a special job. For example, some directly attack germs, while others produce antibodies. When leukemia develops, the body starts making large numbers of immature or abnormal white blood cells that can't do their job properly.
+
+
+<img src="/img/artical/single-articles/How White Blood Cells Function.png" alt="Bone Marrow Image" class="myeloma-img" />
 
 
 This not only weakens the immune system but also affects other blood cells. Red blood cells get reduced, leading to fatigue and shortness of breath. A shortage of platelets can cause easy bruising and bleeding. And because these leukemia cells don’t die when they should, they keep multiplying, making things worse over time.
