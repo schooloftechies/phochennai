@@ -2,7 +2,7 @@
 title: "Understanding What is Bone Marrow Disease and Its Impact on Health"
 image: "/img/artical/single-articles/Understanding What is Bone Marrow Disease and Its Impact on Health.jpg"
 mobile: "/img/artical/single-articles/Understanding What is Bone Marrow Disease and Its Impact on Health.jpg"
-singleImage: "/img/artical/single-articles/Understanding What is Bone Marrow Disease and Its Impact on Health.jpg"
+singleImage: "/img/artical/single-articles/Understanding-What is Bone-Marrow Disease-and Its-Impact-on Health.png"
 MobileSingleImage: "/img/artical/single-articles/Understanding What is Bone Marrow Disease and Its Impact on Health.jpg"
 author: PHO Team
 date: "16-05-2025"

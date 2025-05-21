@@ -2,7 +2,7 @@
 title: "Understanding Acute Myeloid Leukemia: Symptoms and Treatment Options"
 image: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
 mobile: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
-singleImage: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
+singleImage: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia.png"
 MobileSingleImage: "/img/artical/single-articles/Understanding Acute Myeloid Leukemia Symptoms and Treatment Options.jpg"
 author: PHO Team
 date: "16-05-2025"

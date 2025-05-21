@@ -2,7 +2,7 @@
 title: "Understanding Thalassemia: Symptoms, Causes, and Management Options"
 image: "/img/artical/single-articles/Understanding Thalassemia Symptoms, Causes, and Management Options.jpg"
 mobile: "/img/artical/single-articles/Understanding Thalassemia Symptoms, Causes, and Management Options.jpg"
-singleImage: "/img/artical/single-articles/Understanding Thalassemia Symptoms, Causes, and Management Options.jpg"
+singleImage: "/img/artical/single-articles/Understanding Thalassemia-new.png"
 MobileSingleImage: "/img/artical/single-articles/Understanding Thalassemia Symptoms, Causes, and Management Options.jpg"
 author: PHO Team
 date: "16-05-2025"

@@ -2,7 +2,7 @@
 title: "Understanding Acute Lymphoblastic Leukemia: Symptoms and Treatments"
 image: "/img/artical/single-articles/Understanding Acute Lymphoblastic Leukemia Symptoms and Treatments.jpg"
 mobile: "/img/artical/single-articles/Understanding Acute Lymphoblastic Leukemia Symptoms and Treatments.jpg"
-singleImage: "/img/artical/single-articles/Understanding Acute Lymphoblastic Leukemia Symptoms and Treatments.jpg"
+singleImage: "/img/artical/single-articles/understanding-acute-lymphoblastic -leukemias.png"
 MobileSingleImage: "/img/artical/single-articles/Understanding Acute Lymphoblastic Leukemia Symptoms and Treatments.jpg"
 author: PHO Team
 date: "16-05-2025"

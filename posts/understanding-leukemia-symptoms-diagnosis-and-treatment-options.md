@@ -2,7 +2,7 @@
 title: "Understanding Leukemia: Symptoms, Diagnosis, and Treatment Options"
 image: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
 mobile: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
-singleImage: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
+singleImage: "/img/artical/single-articles/understanding-leukemia-symptoms-diagnosis-and-treatment-options.png"
 MobileSingleImage: "/img/artical/single-articles/Understanding Leukemia Symptoms, Diagnosis, and Treatment Options.jpg"
 author: PHO Team
 date: "16-05-2025"
