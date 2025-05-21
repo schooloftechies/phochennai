@@ -9,12 +9,13 @@
 
 @media (max-width: 480px) {
 
-  .home_banner-mb{
-   width: 100%;
-   height: auto;
-   background: url(/img/about/png-bg.jpg)  no-repeat !important;
-   
- }
+  .home_banner-mb {
+    width: 100%;
+    height: auto;
+    background: url(/img/about/png-bg.jpg) no-repeat !important;
+    background-size: cover;
+
+  }
 }
 
 .gallery_banner {

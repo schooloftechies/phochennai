@@ -1233,12 +1233,13 @@ body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,2
 
 @media (max-width: 480px) {
 
-  .home_banner-mb{
-   width: 100%;
-   height: auto;
-   background: url(/img/about/png-bg.jpg)  no-repeat !important;
-   
- }
+  .home_banner-mb {
+    width: 100%;
+    height: auto;
+    background: url(/img/about/png-bg.jpg) no-repeat !important;
+    background-size: cover;
+
+  }
 }
 
 .gallery_banner {
