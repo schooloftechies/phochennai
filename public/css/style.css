@@ -6677,3 +6677,12 @@ input[type="number"] {
     max-width: 90%;
   }
 }
+.myeloma-img {
+  width: 85% !important ;
+ 
+  margin-bottom: 10px !important;
+  display: block !important;
+}
+
+
+

@@ -1,9 +1,9 @@
 ---
 title: "Understanding Thalassemia: Symptoms, Causes, and Management Options"
-image: "/img/artical/single-articles/Understanding Thalassemia.png"
-mobile: "/img/artical/mobile-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
-singleImage: "/img/artical/single-articles/Understanding Thalassemia.png"
-MobileSingleImage: "/img/artical/mobile-single-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
+image: "/img/artical/single-articles/Understanding Thalassemia Symptoms, Causes, and Management Options.jpg"
+mobile: "/img/artical/single-articles/Understanding Thalassemia Symptoms, Causes, and Management Options.jpg"
+singleImage: "/img/artical/single-articles/Understanding Thalassemia-new.png"
+MobileSingleImage: "/img/artical/single-articles/Understanding Thalassemia Symptoms, Causes, and Management Options.jpg"
 author: PHO Team
 date: "16-05-2025"
 ---
@@ -64,6 +64,8 @@ On the other hand, beta thalassemia major leads to lifelong blood transfusions. 
 
 These faulty genes reduce the body's ability to produce healthy red blood cells. The body becomes oxygen-starved with fewer red cells or red cells that break easily. 
 
+<img src="/img/artical/single-articles/Impact on Red Blood Cells.png" alt="Bone Marrow Image" class="myeloma-img" />
+
 Think about a child struggling with energy during simple play or frequent infections. Could it be more than just low immunity? It could be moderate to severe anemia caused by an inherited condition.
 
 ##### Geographic and Ethnic Factors
@@ -118,6 +120,8 @@ It also worsens anemia because the enlarged spleen destroys red blood cells fast
 ##### Diagnosis and Testing of Thalassemia
 
 Identifying thalassemia early is important, especially for children who may need lifelong treatment. Diagnosis usually begins with symptoms like fatigue, pale skin, or slow growth. If a family history of thalassemia or anemia exists, a routine blood test can reveal irregularities in red blood cells. 
+
+<img src="/img/artical/single-articles/Diagnosis and Testing of Thalassemia.png" alt="Bone Marrow Image" class="myeloma-img" />
 
 Doctors may use peripheral blood smears, genetic testing, and hemoglobin electrophoresis for a more detailed diagnosis. These tests help determine the type alpha thalassemia, beta thalassemia, or a thalassemia trait. Early diagnosis allows doctors to plan treatments like regular blood transfusions, chelation therapy, or even a bone marrow transplant.
 

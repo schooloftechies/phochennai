@@ -1,9 +1,9 @@
 ---
 title: "Understanding What is Bone Marrow Disease and Its Impact on Health"
-image: "/img/artical/single-articles/Understanding-What is Bone-Marrow Disease-and Its-Impact-on Health.png"
-mobile: "/img/artical/mobile-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
+image: "/img/artical/single-articles/Understanding What is Bone Marrow Disease and Its Impact on Health.jpg"
+mobile: "/img/artical/single-articles/Understanding What is Bone Marrow Disease and Its Impact on Health.jpg"
 singleImage: "/img/artical/single-articles/Understanding-What is Bone-Marrow Disease-and Its-Impact-on Health.png"
-MobileSingleImage: "/img/artical/mobile-single-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
+MobileSingleImage: "/img/artical/single-articles/Understanding What is Bone Marrow Disease and Its Impact on Health.jpg"
 author: PHO Team
 date: "16-05-2025"
 ---
@@ -61,6 +61,8 @@ Have you noticed your blood counts dropping for no reason? MDS could be the caus
 
 This disease starts in plasma cells, a type of white blood cell in the bone marrow. It causes bone damage, frequent infections, and kidney problems. 
 
+<img src="/img/artical/single-articles/Multiple Myeloma.png" alt="Bone Marrow Image" class="myeloma-img" />
+
 Imagine someone with hip pain that doesn’t go away, later discovering it’s due to weak bones from myeloma. Treatment may include chemotherapy, steroids, and sometimes a stem cell donation from a matching donor.
 
 #### Lymphoma (Bone Marrow Involvement)
@@ -100,6 +102,8 @@ Some causes, like inherited conditions, are unavoidable, while others relate to 
 #### How Bone Marrow Disease Affects Health
 
 When your bone marrow stops working as it should, the effects go far beyond the bones. It changes how oxygen moves through your body, how fast you heal, and how well your immune system can defend you. 
+
+<img src="/img/artical/single-articles/How Bone Marrow Disease Affects Health.png" alt="Bone Marrow Image" class="myeloma-img" />
 
 Many people don’t realize how central bone marrow is to staying healthy until something goes wrong. If your marrow doesn’t produce enough red blood cells, you’ll feel weak and short of breath. 
 

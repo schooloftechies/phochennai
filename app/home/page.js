@@ -70,7 +70,7 @@ const Home = () => {
       <TopBar />
 
       {/* banner start */}
-      <div className="home_banner">
+      <div className="home_banner home_banner-mb">
         <div className="container">
           <div className="Home_banner_left">
             <h1>Because every child deserves the best</h1>

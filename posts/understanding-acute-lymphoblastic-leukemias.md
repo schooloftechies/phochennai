@@ -1,9 +1,9 @@
 ---
 title: "Understanding Acute Lymphoblastic Leukemia: Symptoms and Treatments"
-image: "/img/artical/single-articles/understanding-acute-lymphoblastic -leukemias.png"
-mobile: "/img/artical/mobile-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
-singleImage: "/img/artical/single-articles/understanding-leukemia-symptoms-diagnosis-and-treatment-options.png"
-MobileSingleImage: "/img/artical/mobile-single-articles/5-breakthroughs-transforming-pediatric-leukemia-treatment-in-2025.png"
+image: "/img/artical/single-articles/Understanding Acute Lymphoblastic Leukemia Symptoms and Treatments.jpg"
+mobile: "/img/artical/single-articles/Understanding Acute Lymphoblastic Leukemia Symptoms and Treatments.jpg"
+singleImage: "/img/artical/single-articles/understanding-acute-lymphoblastic -leukemias.png"
+MobileSingleImage: "/img/artical/single-articles/Understanding Acute Lymphoblastic Leukemia Symptoms and Treatments.jpg"
 author: PHO Team
 date: "16-05-2025"
 ---
@@ -26,6 +26,10 @@ Let’s explore how this disease works and who is most affected.
 #### Types of Cells Involved: Understanding Lymphocytes
 
 ALL specifically involves lymphocytes, a type of white blood cell. There are two main types: B cells and T cells. Both play different roles in the immune system.
+
+<img src="/img/artical/single-articles/How White Blood Cells Function.png" alt="Bone Marrow Image" class="myeloma-img" />
+
+Acute Lymphoblastic Leukemia
 
 - B cells make antibodies to fight bacteria and viruses.
 
@@ -157,6 +161,8 @@ it’s time to speak with a doctor. A simple blood test can show changes in whit
 #### Diagnosis and Tests for Acute Lymphoblastic Leukemia (ALL)
 
 Diagnosing acute lymphoblastic leukemia (ALL) involves more than just noticing symptoms. A doctor needs to confirm the presence of leukemia cells and understand how far the disease has spread. 
+
+<img src="/img/artical/single-articles/Diagnosis and Tests for Acute Lymphoblastic Leukemia (ALL).png" alt="Bone Marrow Image" class="myeloma-img" />
 
 This is done through a series of tests that check the blood and bone marrow, as well as other parts of the body like the brain and spinal cord.
 
