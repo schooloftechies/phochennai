@@ -13309,7 +13309,7 @@ input[type="number"] {
  .home_banner-mb{
   width: 100%;
   height: auto;
-  background: url(/img/about/png-bg.jpg)  no-repeat !important;
+  background: url('/img/about/png-bg.jpg')  no-repeat !important;
   
 }
 
