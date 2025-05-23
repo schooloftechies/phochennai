@@ -16,7 +16,7 @@
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
-    align-items: center;     
+    align-items: center;
     text-align: center;
     padding: 20px;
   }
@@ -61,7 +61,8 @@
 
 @media (max-width: 480px) {
   .Home_banner_left h1 {
-    font-size: 40px; /* Adjust size for small screens */
+    font-size: 40px;
+    /* Adjust size for small screens */
   }
 }
 
@@ -445,13 +446,14 @@
     font-size: 46px;
     color: #fff;
   }
-  
+
   @media (max-width: 480px) {
     .Home_banner_left h1 {
-      font-size: 48px; /* or any smaller size that fits better */
+      font-size: 48px;
+      /* or any smaller size that fits better */
     }
   }
-  
+
 
   .home_banner {
     padding: 150px 0 100px;
