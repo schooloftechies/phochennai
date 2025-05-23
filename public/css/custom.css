@@ -61,7 +61,7 @@
 
 @media (max-width: 480px) {
   .Home_banner_left h1 {
-    font-size: 0px; /* Adjust size for small screens */
+    font-size: 40px; /* Adjust size for small screens */
   }
 }
 
@@ -448,7 +448,7 @@
   
   @media (max-width: 480px) {
     .Home_banner_left h1 {
-      font-size: 8px; /* or any smaller size that fits better */
+      font-size: 48px; /* or any smaller size that fits better */
     }
   }
   

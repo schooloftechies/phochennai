@@ -13682,13 +13682,6 @@ html {
   color: #fff;
 }
 
-@media (max-width: 768px) {
-  .Home_banner_left h1 {
-    font-size: 40px !important; /* Adjust size as needed */
-    margin-top: 100px !important; /* Optional: adjust margin for better spacing */
-  }
-}
-
 .navtab {
   margin: 0 10px;
   padding: 0px 0px !important;
