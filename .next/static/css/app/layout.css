@@ -1240,12 +1240,13 @@ body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,2
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
-    align-items: center;      /* Horizontal center */
-    justify-content: center;  /* Vertical center if height is set */
+    align-items: center;     
     text-align: center;
-    padding: 20px; /* Optional: for spacing */
+    padding: 20px;
   }
 }
+
+
 
 
 .gallery_banner {
@@ -1282,6 +1283,13 @@ body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,2
   font-size: 70px;
   color: #fff;
 }
+
+@media (max-width: 480px) {
+  .Home_banner_left h1 {
+    font-size: 0px; /* Adjust size for small screens */
+  }
+}
+
 
 .Home_banner_left p {
 
@@ -1671,7 +1679,15 @@ body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,2
 
   .Home_banner_left h1 {
     font-size: 46px;
+    color: #fff;
   }
+  
+  @media (max-width: 480px) {
+    .Home_banner_left h1 {
+      font-size: 8px; /* or any smaller size that fits better */
+    }
+  }
+  
 
   .home_banner {
     padding: 150px 0 100px;
@@ -13664,6 +13680,13 @@ html {
   margin-top: 180px !important;
   font-size: 70px;
   color: #fff;
+}
+
+@media (max-width: 768px) {
+  .Home_banner_left h1 {
+    font-size: 40px !important; /* Adjust size as needed */
+    margin-top: 100px !important; /* Optional: adjust margin for better spacing */
+  }
 }
 
 .navtab {
