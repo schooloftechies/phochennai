@@ -74,7 +74,7 @@ const Home = () => {
         <div className="container">
           <div className="Home_banner_left">
             <h1>Because every child deserves the best</h1>
-            <p>
+            <p className="txt" >
               {" "}
               Our team includes skilled physicians and nurses who understand the
               special needs of these children and provide them with
