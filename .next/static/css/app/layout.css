@@ -1236,19 +1236,10 @@ body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,2
   .home_banner-mb {
     width: 100%;
     height: auto;
-    background: url(/img/about/mobile_bg.jpg) no-repeat  center center  !important;
+    background: url(/img/about/png-bg.jpg) no-repeat !important;
     background-size: cover;
+
   }
-  .Home_banner_left h1 {
-  font-size: 32px !important;
-  color: #fff;
-}
-
-.Home_banner_left p {
-  display: none !important;
-  color: #fff;
-}
-
 }
 
 .gallery_banner {

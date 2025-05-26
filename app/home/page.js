@@ -69,6 +69,31 @@ const Home = () => {
     <div>
       <TopBar />
 
+      <style>
+        {`
+         @media (max-width: 480px) {
+
+  .home_banner-mb {
+    width: 100%;
+    height: auto;
+    background: url(/img/about/mobile_bg.jpg) no-repeat center center    !important;
+    background-size: cover;
+
+  }
+  .Home_banner_left h1 {
+  font-size: 32px !important;
+  color: #fff;
+}
+.Home_banner_left p {
+  display: none !important;
+
+  color: #fff;
+}
+}
+
+        `}
+      </style>
+
       {/* banner start */}
       <div className="home_banner home_banner-mb">
         <div className="container">
